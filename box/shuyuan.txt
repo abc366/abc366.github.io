@@ -1,5 +1,3 @@
-﻿//http://shuyuan.miaogongzi.net/shuyuan/1659790078.json
-
 
 {
 	"spider": "https://gitea.com/wjj415/wjj/raw/branch/main/gg.jar;md5;0e29b2b4be00b0ae584c757c2d363215",
