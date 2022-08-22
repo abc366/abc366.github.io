@@ -11,7 +11,7 @@
 
 "wallpaper": "http://刚刚.live/图",
 	
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaHV5dWFuLm1pYW9nb25nemkubmV0L3NodXl1YW4vMTY1OTgwODU0OC50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNDAwODEvJUU0JUI5JUE2JUU2JUJBJTkwLWxpdmUudHh0P3NpZ249aDVfTHJEcl81MGY0VFRWLWluNDZNaDhZUWdtUHR1cE9fQUxMaDZUdFFicyUzRCUzQTA="]}]}],
 
 	"sites": [{
 		"key": "csp_77",
