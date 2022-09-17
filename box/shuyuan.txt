@@ -1,15 +1,15 @@
 
 {
 	//"spider": "https://gitea.com/wjj415/wjj/raw/branch/main/gg.jar;md5;0e29b2b4be00b0ae584c757c2d363215",
-	"spider":"https://out.zxglife.top/down.php/407f5087df6860f97af981e56848adb6.jar;md5;407F5087DF6860F97AF981E56848ADB6",
-"jars":
-{
-"668":"",
-"qj":"https://gitea.com/wjj415/wjj/raw/branch/main/360.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
-"ts":""
+	//"spider":"https://out.zxglife.top/down.php/407f5087df6860f97af981e56848adb6.jar;md5;407F5087DF6860F97AF981E56848ADB6",
+//"jars":
+//{
+//"668":"",
+//"qj":"https://gitea.com/wjj415/wjj/raw/branch/main/360.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
+//"ts":""
 
-},
-
+//},
+"spider":"https://download.kstore.space/download/2863/zhanghong.jar;md5;8bc28c68b7dfb8019b2fe9f02a9075ee",
 "wallpaper": "http://刚刚.live/图",
 	
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNDAwODEvJUU0JUI5JUE2JUU2JUJBJTkwLWxpdmUudHh0P3NpZ249aDVfTHJEcl81MGY0VFRWLWluNDZNaDhZUWdtUHR1cE9fQUxMaDZUdFFicyUzRCUzQTA="]}]}],
