@@ -1,6 +1,7 @@
 
 {
-	"spider": "https://gitea.com/wjj415/wjj/raw/branch/main/gg.jar;md5;0e29b2b4be00b0ae584c757c2d363215",
+	//"spider": "https://gitea.com/wjj415/wjj/raw/branch/main/gg.jar;md5;0e29b2b4be00b0ae584c757c2d363215",
+	"spider":"https://out.zxglife.top/down.php/407f5087df6860f97af981e56848adb6.jar;md5;407F5087DF6860F97AF981E56848ADB6",
 "jars":
 {
 "668":"",
