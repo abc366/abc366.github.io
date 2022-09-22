@@ -585,6 +585,7 @@
 		{"key":"*百度资源","name":"*百度资源","type":1,"api":"http://llbdzy.com/api.php/provide/vod?ac=list"},
 		{"key":"*99资源","name":"*99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/"},
 		{"key":"*花椒","name":"*花椒","type":0,"api":"https://cj.apihjzy.com/inc/api.php"},
+		{"key":"金莲资源","name":"金莲资源","type":1,"api":"https://111kkkkk.com/api.php/provide/vod"},
 		{"key":"*88","name":"*88","type":0,"api":"http://www.88zy.live/inc/api.php"}
 	],
 	"lives": [{
